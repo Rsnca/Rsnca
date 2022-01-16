@@ -21,12 +21,8 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rsnca&count_private=true&show_icons=true&theme=vue" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsnca&layout=compact&count_private=true&theme=vue" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=Rsnca&count_private=true&show_icons=true&theme=vue)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rsnca&layout=compact&count_private=true&theme=vue)
 
 ![](https://github-profile-trophy.vercel.app/?username=Rsnca)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rsnca&theme=vue)
