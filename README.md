@@ -21,11 +21,11 @@
   </a>
 </p>
 
-<a href="https://github.com/Rsnca/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rsnca&layout=compact&count_private=true&show_icons=true&theme=vue">
-</a>
 <a href="https://github.com/Rsnca/github-readme-lang">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsnca&layout=compact&theme=vue">
+</a>
+<a href="https://github.com/Rsnca/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rsnca&layout=compact&count_private=true&show_icons=true&theme=vue">
 </a>
 
 ![](https://github-profile-trophy.vercel.app/?username=Rsnca)
