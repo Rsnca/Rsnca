@@ -19,6 +19,7 @@
   <a href="https://github.com/Rsnca">
     <img height="20" src="https://img.shields.io/github/followers/Rsnca?label=follow&logo=github&style=flat" />
   </a>
+  [![My Qiita posts](https://qiita-badge.apiapi.app/s/Rsnca/posts.svg)](http://qiita.com/Rsnca)
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=Rsnca)
