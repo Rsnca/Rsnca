@@ -1,9 +1,8 @@
-# Hi Nice to see you. 👋
-<p>
-  🌸Welcome to my page!<br>
-  🏝I'm Kyohei　Kosugi, currently living in Tokyo, Japan.<br>
-  🍁I work　as a Data Engineer<br>
-  ⛄️How to reach me @OtOhbk
+## Hi Nice to see you. 👋
+- 🌸 Welcome to my page!
+- 🏝 I'm Kyohei　Kosugi, currently living in Tokyo, Japan.
+- 🍁 I work　as a Data Engineer
+- ⛄️ How to reach me [@OtOhbk](https://twitter.com/otohbk)
 </p>
 
 
